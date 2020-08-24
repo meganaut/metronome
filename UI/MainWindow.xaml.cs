@@ -2,7 +2,7 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace metronome
+namespace metronome.UI
 {
     public class MainWindow : Window
     {
